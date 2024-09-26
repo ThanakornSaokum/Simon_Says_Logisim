@@ -711,34 +711,40 @@
       <a name="facing" val="north"/>
     </comp>
     <comp lib="5" loc="(970,4720)" name="Hex Digit Display"/>
-    <comp lib="8" loc="(1102,3560)" name="Text">
+    <comp lib="8" loc="(1100,3560)" name="Text">
       <a name="text" val="Nah"/>
     </comp>
-    <comp lib="8" loc="(1116,1857)" name="Text">
+    <comp lib="8" loc="(1115,1855)" name="Text">
       <a name="text" val="Max count"/>
     </comp>
-    <comp lib="8" loc="(1548,2671)" name="Text">
+    <comp lib="8" loc="(1236,4284)" name="Text">
+      <a name="text" val="Start Game"/>
+    </comp>
+    <comp lib="8" loc="(1472,4282)" name="Text">
+      <a name="text" val="Reset Data"/>
+    </comp>
+    <comp lib="8" loc="(1545,2670)" name="Text">
       <a name="text" val="prevent some kids press all button,"/>
     </comp>
-    <comp lib="8" loc="(1568,2736)" name="Text">
+    <comp lib="8" loc="(1565,2735)" name="Text">
       <a name="text" val="it wil count first pressed"/>
     </comp>
-    <comp lib="8" loc="(2486,1957)" name="Text">
+    <comp lib="8" loc="(2485,1955)" name="Text">
       <a name="text" val="Memory 4bits * 8 =&gt; 32 bits"/>
     </comp>
-    <comp lib="8" loc="(369,4948)" name="Text">
+    <comp lib="8" loc="(365,4945)" name="Text">
       <a name="text" val="some delay before show "/>
     </comp>
-    <comp lib="8" loc="(4086,2223)" name="Text">
+    <comp lib="8" loc="(4085,2220)" name="Text">
       <a name="text" val="Random"/>
     </comp>
-    <comp lib="8" loc="(418,1761)" name="Text">
+    <comp lib="8" loc="(415,1760)" name="Text">
       <a name="text" val="buffer? idk"/>
     </comp>
-    <comp lib="8" loc="(418,4661)" name="Text">
+    <comp lib="8" loc="(415,4660)" name="Text">
       <a name="text" val="show until there is no data yet"/>
     </comp>
-    <comp lib="8" loc="(423,5132)" name="Text">
+    <comp lib="8" loc="(420,5130)" name="Text">
       <a name="text" val="show all button that you must press"/>
     </comp>
     <comp lib="8" loc="(490,1440)" name="Text">
@@ -750,10 +756,10 @@
     <comp lib="8" loc="(550,1440)" name="Text">
       <a name="text" val="1"/>
     </comp>
-    <comp lib="8" loc="(678,3436)" name="Text">
+    <comp lib="8" loc="(675,3435)" name="Text">
       <a name="text" val="it wil count first pressed"/>
     </comp>
-    <comp lib="8" loc="(688,3389)" name="Text">
+    <comp lib="8" loc="(685,3385)" name="Text">
       <a name="text" val="prevent some kids press all button,"/>
     </comp>
     <comp lib="8" loc="(715,380)" name="Text">
@@ -768,7 +774,7 @@
     <comp lib="8" loc="(770,1440)" name="Text">
       <a name="text" val="6"/>
     </comp>
-    <comp lib="8" loc="(790,3563)" name="Text">
+    <comp lib="8" loc="(790,3560)" name="Text">
       <a name="text" val="Correct"/>
     </comp>
     <comp lib="8" loc="(800,1435)" name="Text">
@@ -780,7 +786,7 @@
     <comp lib="8" loc="(860,1435)" name="Text">
       <a name="text" val="3"/>
     </comp>
-    <comp lib="8" loc="(882,2523)" name="Text">
+    <comp lib="8" loc="(880,2520)" name="Text">
       <a name="text" val="current state"/>
     </comp>
     <comp lib="8" loc="(890,1435)" name="Text">
@@ -792,8 +798,11 @@
     <comp lib="8" loc="(945,1440)" name="Text">
       <a name="text" val="0"/>
     </comp>
-    <comp lib="8" loc="(946,1980)" name="Text">
+    <comp lib="8" loc="(945,1980)" name="Text">
       <a name="text" val="compare if current state hit max"/>
+    </comp>
+    <comp lib="8" loc="(974,4608)" name="Text">
+      <a name="text" val="Dont Forget to TURN ON Clock"/>
     </comp>
     <wire from="(100,420)" to="(100,450)"/>
     <wire from="(100,420)" to="(330,420)"/>
